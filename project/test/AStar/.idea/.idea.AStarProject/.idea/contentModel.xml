@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\xurui\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\xurui\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_AStarProject.-93893524.00" t="ExcludeRecursive" />
-    <e p="C:\Users\xurui\Desktop\interview\test\AStar" t="IncludeRecursive">
+    <e p="C:\Users\xurui\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\xurui\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_AStarProject.1814356381.00" t="ExcludeRecursive" />
+    <e p="E:\unity projects\A_star\AStarPathingAlgorithm\project\test\AStar" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
@@ -13,6 +13,8 @@
           </e>
           <e p="ClickableTile.cs" t="Include" />
           <e p="HexTilesMap.cs" t="Include" />
+          <e p="MapData.cs" t="Include" />
+          <e p="Node.cs" t="Include" />
           <e p="TileType.cs" t="Include" />
         </e>
       </e>

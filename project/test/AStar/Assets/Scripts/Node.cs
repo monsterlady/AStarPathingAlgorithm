@@ -74,7 +74,11 @@ class Node : IAStarNode
         return ((Node)neighbour).GetCostDays();
     }
 
-    public float EstimatedCostTo(IAStarNode goal) {
-        return 0;
+    public float EstimatedCostTo(IAStarNode goal)
+    {
+        Debug.Log(this.ToString() + " goal: " + goal.ToString());
+        Debug.Log(Math.Abs(((Node) goal).x - this.x) + Math.Abs(((Node) goal).y - this.y));
+        return Math.Abs(((Node) goal).x - this.x -1) + Math.Abs(((Node) goal).y - this.y - 1);
+        throw new NotImplementedException();
     }
 }

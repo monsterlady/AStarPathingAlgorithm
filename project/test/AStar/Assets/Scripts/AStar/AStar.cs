@@ -2,6 +2,7 @@
 //  Created: 2014/12/17
 //  Copyright (c) 2014 Talespin
 
+using System;
 using UnityEngine;
 using System.Collections.Generic;
 

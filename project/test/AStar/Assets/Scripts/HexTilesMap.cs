@@ -185,7 +185,7 @@ public class HexTilesMap : MonoBehaviour
 
         Node start = _nodes[_startPositionX, _startPositionY];
         Node end = _nodes[_endPositionX, _endPositionY];
-        IList<IAStarNode> path = AStar.GetPath(start, end);
+        IList<IAStarNode> path = AStar.GetPath(((Node)start), ((Node)end));
         if (path == null) {
             return;
         }
