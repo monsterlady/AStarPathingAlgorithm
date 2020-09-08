@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bedf7ac-8d32-4a8e-bc41-fac3eefb7e7f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/project/test/AStar/.idea/.idea.AStar/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/test/AStar/.idea/.idea.AStar/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/test/AStar/.idea/.idea.AStar/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/test/AStar/.idea/.idea.AStar/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/test/AStar/.idea/.idea.AStar/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/test/AStar/.idea/.idea.AStar/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/test/AStar/.idea/.idea.AStar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/test/AStar/.idea/.idea.AStar/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/test/AStar/.idea/.idea.AStar/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/project/test/AStar/.idea/.idea.AStar/riderModule.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +34,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599309999436</updated>
       <workItem from="1599310000550" duration="9000" />
+      <workItem from="1599399107175" duration="485000" />
     </task>
     <servers />
   </component>
